@@ -12,3 +12,6 @@ Python, Git, Linux, VS Code, APIs de IA, Machine Learning y más.
 
 ## Objetivo final
 Construir aplicaciones funcionales con IA integrada, desplegadas en producción.
+
+## Prueba de fuego
+No se que hago, pero luzco genial haciendolo
